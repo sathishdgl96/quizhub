@@ -81,7 +81,7 @@ class MainMenu extends React.Component {
             <Text style={styles.rules}>3.Correct answer earns 1 point.</Text>
           </View>
           <Button style={styles.playButton} onPress={this.props.startGameSelection}>
-            <Text style={styles.play}>PLAY</Text>
+            <Text style={styles.play}>PLAY.</Text>
           </Button>
         </ImageBackground>
       </View>
